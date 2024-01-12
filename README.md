@@ -1,6 +1,7 @@
 ### Hi there 👋
 UXUI Design Based IOS Developer
-https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
+![js]([https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
+))
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seosieve&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
