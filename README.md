@@ -17,7 +17,7 @@ UXUI Design Based IOS Developer
 
 
 
-<a href="http://melonicedlatte.com/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link={www.google.com}"/></a>
+<a href="https://seosieve.notion.site/Sieve-Development-Note-15b1537eabf843e09dc096600d8614f6?pvs=4/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link={www.google.com}"/></a>
 
 
 
