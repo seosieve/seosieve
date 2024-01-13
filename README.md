@@ -2,6 +2,7 @@
 UXUI Design Based IOS Developer
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seosieve&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 Tech Stack
 <img src="https://img.shields.io/badge/swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
