@@ -1,5 +1,5 @@
 ### Hi there 👋
-UXUI Design Based IOS Developer
+UXUI Design Based IOS Developer <a href="https://seosieve.notion.site/Sieve-Development-Note-15b1537eabf843e09dc096600d8614f6?pvs=4/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link={www.google.com}"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seosieve&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -13,11 +13,3 @@ UXUI Design Based IOS Developer
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/></a>
-
-
-
-<a href="https://seosieve.notion.site/Sieve-Development-Note-15b1537eabf843e09dc096600d8614f6?pvs=4/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white&link={www.google.com}"/></a>
-
-
-
-
