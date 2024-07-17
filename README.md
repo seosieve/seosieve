@@ -1,5 +1,5 @@
-### Hi I'm Sieve 👋
-- **IOS Developer** who loves UXUI Design
+## Hi I'm Sieve 🐋
+**IOS Developer** with design oriented towards UI/UX
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seosieve&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,6 +9,7 @@
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/>
 
 ### Education
+> 2016.03 ~ 2022.02
 - 🎓Hongik Univ. ('16)
   
   - BS in **Computer Science & Digital Media Design** (double major)
