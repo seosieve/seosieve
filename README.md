@@ -11,4 +11,4 @@ UXUI Design Based IOS Developer
 ### Education
 - 🎓Hongik Univ. ('16)
   
-  - BS in Computer Science & Digital Media Design *(double major)*
+  - BS in **Computer Science & Digital Media Design** (double major)
