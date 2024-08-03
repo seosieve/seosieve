@@ -1,5 +1,5 @@
 ## Hi I'm Sieve 🐋
-**IOS Developer** with design oriented towards UI/UX
+**iOS Developer** with design oriented towards UI/UX
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seosieve&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
