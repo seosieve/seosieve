@@ -9,7 +9,12 @@
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/>
 
 ### Education
+> 2024.05 ~ 2024.11
+- 🌱 SeSAC (Seoul Software Academy)
+
+  - iOS App Developer Process
+
 > 2016.03 ~ 2022.02
 - 🎓 Hongik Univ. ('16)
-  
+
   - BS in **Computer Science & Digital Media Design** (double major)
