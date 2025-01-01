@@ -8,6 +8,12 @@
 
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white"/> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=flat-square&logo=unrealengine&logoColor=white"/>
 
+### Career
+> 2024.09 ~ now
+- **Vestella Lab** (iOS Developer)
+
+  - Indoor Parking Navigation Solution & Autonomous Mobility Service
+
 ### Education
 > 2024.05 ~ 2024.11
 - 🌱 SeSAC (Seoul Software Academy)
