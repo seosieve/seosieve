@@ -10,7 +10,7 @@
 
 ### Career
 > 2024.09 ~ now
-- **Vestella Lab** (iOS Developer)
+- [Vestella Lab](https://vestellalab.com/) (iOS Developer)
 
   - Indoor Parking Navigation Solution & Autonomous Mobility Service
 
