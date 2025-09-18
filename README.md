@@ -25,7 +25,6 @@
   <img src="https://img.shields.io/badge/Blender-3D67A3?style=flat-square&logo=Blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal-2B538A?style=flat-square&logo=Unrealengine&logoColor=white"/>
 </div>
-<br>
 
 ### Career
 > 2024.09 ~ now
