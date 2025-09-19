@@ -8,22 +8,22 @@
 > iOS
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Xcode-88B3F2?style=flat-square&logo=Xcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-6695D8?style=flat-square&logo=Swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/UIkit-5482C4?style=flat-square&logo=UIkit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-3D67A3?style=flat-square&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-3D67A3?style=flat-square&logo=Swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/UIkit-3D67A3?style=flat-square&logo=UIkit&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-3D67A3?style=flat-square&logo=Swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactiveX-2B538A?style=flat-square&logo=ReactiveX&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactiveX-3D67A3?style=flat-square&logo=ReactiveX&logoColor=white" />
 </div>
 <br>
 
 > Others
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-88B3F2?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-6695D8?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-5482C4?style=flat-square&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3D67A3?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-3D67A3?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-3D67A3?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-3D67A3?style=flat-square&logo=Blender&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unreal-2B538A?style=flat-square&logo=Unrealengine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal-3D67A3?style=flat-square&logo=Unrealengine&logoColor=white"/>
 </div>
 
 ### Career
