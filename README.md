@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Swift-3D67A3?style=flat-square&logo=Swift&logoColor=white" />
   <img src="https://img.shields.io/badge/UIkit-3D67A3?style=flat-square&logo=UIkit&logoColor=white" />
   <img src="https://img.shields.io/badge/SwiftUI-3D67A3?style=flat-square&logo=Swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/ReactiveX-3D67A3?style=flat-square&logo=RxSwift&logoColor=white" />
+  <img src="https://img.shields.io/badge/RxSwift-3D67A3?style=flat-square&logo=ReactiveX&logoColor=white" />
 </div>
 <br>
 
