@@ -19,8 +19,8 @@
 > Others
 <div>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3D67A3?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactNative-3D67A3?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3D67A3?style=flat-square&logo=TypeScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-3D67A3?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-3D67A3?style=flat-square&logo=Blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal-3D67A3?style=flat-square&logo=Unrealengine&logoColor=white"/>
