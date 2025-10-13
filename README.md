@@ -1,6 +1,9 @@
-## Hi I'm Sieve 🐋
+## Hi I'm Sieve <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30">
 
-**iOS Developer** | Sculpting user experiences, emphasizing micro-interactions
+> iOS Developer 🎧 <br>
+> Rooted in design, shaping ideas into experiences that touch daily life <br>
+> Sculpting user experiences, emphasizing micro-interactions <br>
+<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seosieve&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
