@@ -38,7 +38,7 @@
 
   - iOS App Developer Process
 
-> 2016.03 ~ 2022.02
+> 2016.03 ~ 2023.02
 - 🎓 Hongik Univ. ('16)
 
   - BS in **Computer Science & Digital Media Design** (double major)
