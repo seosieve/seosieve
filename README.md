@@ -44,4 +44,4 @@
 > 2016.03 ~ 2023.02
 - 🎓 Hongik Univ. ('16)
 
-  - BS in **Computer Science & Digital Media Design** (double major)
+  - BS in **Computer Science & Digital Media Design** (Double Major)
