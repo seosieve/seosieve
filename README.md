@@ -5,7 +5,7 @@
 > Sculpting user experiences, emphasizing micro-interactions <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seosieve&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Seosieve's GitHub stats](https://github-stats-extended.vercel.app/api?username=seosieve&theme=tokyonight)](https://github.com/stats-organization/github-stats-extended)
 
 ### Skills
 > iOS
