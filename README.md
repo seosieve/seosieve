@@ -30,7 +30,7 @@
 </div>
 
 ### Career
-> 2024.09 ~ now
+> 2024.09 ~ 2026.04
 - [Vestella Lab](https://vestellalab.com/) (iOS Developer)
 
   - Indoor Parking Navigation Solution & Autonomous Mobility Service
